@@ -32,7 +32,7 @@
                                     <color key="titleColor" red="0.68280019260000002" green="0.34710454369999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 </state>
                                 <connections>
-                                    <segue destination="dtR-00-jUe" kind="presentation" id="fc6-SM-3gb"/>
+                                    <segue destination="dtR-00-jUe" kind="presentation" modalTransitionStyle="crossDissolve" id="fc6-SM-3gb"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -251,7 +251,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="i27-nt-ffI"/>
+        <segue reference="fc6-SM-3gb"/>
         <segue reference="Afd-3I-Z86"/>
     </inferredMetricsTieBreakers>
 </document>
